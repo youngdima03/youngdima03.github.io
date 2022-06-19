@@ -1,0 +1,57 @@
+*{
+    font-family: 'Merriweather', serif;
+}
+img {
+    width:  1570px;
+    height: 720px;
+    object-fit: cover;
+}.hidden {
+    display: none;
+}
+h1 {
+    position: absolute;
+    top: 200px;
+    left: 540px;
+    font-size: 40px;
+    color: white;
+}
+#login-form{
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+#clock{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+}
+#todo-form{
+    position: absolute;
+    top: 500px;
+    right: 50px;
+}
+#todo-list{
+    position: absolute;
+    top: 520px;
+    right: 60px;
+    color: white;
+}
+#weather{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+    font-weight: bold;
+}
+#quote{
+    position: absolute;
+    top: 680px;
+    left: 520px;
+    color: white;
+}
+#letters{
+    font-size: 25px;
+}
